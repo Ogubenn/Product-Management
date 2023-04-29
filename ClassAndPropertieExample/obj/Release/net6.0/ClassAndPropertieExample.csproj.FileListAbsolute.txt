@@ -1,5 +1,0 @@
-/Users/derslik1-22/Desktop/c#/ClassAndPropertieExample/obj/Release/net6.0/ClassAndPropertieExample.csproj.AssemblyReference.cache
-/Users/derslik1-22/Desktop/c#/ClassAndPropertieExample/obj/Release/net6.0/ClassAndPropertieExample.GeneratedMSBuildEditorConfig.editorconfig
-/Users/derslik1-22/Desktop/c#/ClassAndPropertieExample/obj/Release/net6.0/ClassAndPropertieExample.AssemblyInfoInputs.cache
-/Users/derslik1-22/Desktop/c#/ClassAndPropertieExample/obj/Release/net6.0/ClassAndPropertieExample.AssemblyInfo.cs
-/Users/derslik1-22/Desktop/c#/ClassAndPropertieExample/obj/Release/net6.0/ClassAndPropertieExample.csproj.CoreCompileInputs.cache
