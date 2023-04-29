@@ -1,0 +1,5 @@
+/Users/derslik1-22/Desktop/c#/İnterfaceExample/obj/Debug/net6.0/İnterfaceExample.csproj.AssemblyReference.cache
+/Users/derslik1-22/Desktop/c#/İnterfaceExample/obj/Debug/net6.0/İnterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derslik1-22/Desktop/c#/İnterfaceExample/obj/Debug/net6.0/İnterfaceExample.AssemblyInfoInputs.cache
+/Users/derslik1-22/Desktop/c#/İnterfaceExample/obj/Debug/net6.0/İnterfaceExample.AssemblyInfo.cs
+/Users/derslik1-22/Desktop/c#/İnterfaceExample/obj/Debug/net6.0/İnterfaceExample.csproj.CoreCompileInputs.cache
