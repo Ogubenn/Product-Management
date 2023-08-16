@@ -1,0 +1,19 @@
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.exe
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.deps.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.runtimeconfig.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.runtimeconfig.dev.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\ref\Uçuş Rezervasyon Sistemi.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\bin\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.pdb
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş_Rezervasyon_Sistemi.Form1.resources
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.AssemblyInfoInputs.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.AssemblyInfo.cs
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\ref\Uçuş Rezervasyon Sistemi.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.pdb
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Uçuş Rezervasyon Sistemi\Uçuş Rezervasyon Sistemi\obj\Debug\net5.0-windows\Uçuş Rezervasyon Sistemi.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.exe
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.deps.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.runtimeconfig.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.runtimeconfig.dev.json
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\ref\Login Panel.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\bin\Debug\net5.0-windows\Login Panel.pdb
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.csproj.AssemblyReference.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login_Panel.Form1.resources
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login_Panel.Properties.Resources.resources
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.csproj.GenerateResource.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.AssemblyInfoInputs.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.AssemblyInfo.cs
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\ref\Login Panel.dll
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.pdb
+C:\Users\ogulc\OneDrive\Masaüstü\c#_Projects\Login Panel\Login Panel\Login Panel\obj\Debug\net5.0-windows\Login Panel.genruntimeconfig.cache
